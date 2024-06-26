@@ -1,6 +1,6 @@
-importlib-metadata==7.2.1 ; python_version >= "3.8" and python_version < "3.10" \
-    --hash=sha256:509ecb2ab77071db5137c655e24ceb3eee66e7bbc6574165d0d114d9fc4bbe68 \
-    --hash=sha256:ffef94b0b66046dd8ea2d619b701fe978d9264d38f3998bc4c27ec3b146a87c8
+importlib-metadata==8.0.0 ; python_version >= "3.8" and python_version < "3.10" \
+    --hash=sha256:15584cf2b1bf449d98ff8a6ff1abef57bf20f3ac6454f431736cd3e660921b2f \
+    --hash=sha256:188bd24e4c346d3f0a933f275c2fec67050326a856b9a359881d7c2a697e8812
 pdm-backend==2.3.1 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:a6e7b7f768de2f339298541b9a111087b85bea9262d21a3f43610863ceb63d76 \
     --hash=sha256:c03cfb3a803325c049b57ba2502b409479ebb22b6a4ee3746c1f688b939764e8
