@@ -1,9 +1,9 @@
 importlib-metadata==8.0.0 ; python_version >= "3.8" and python_version < "3.10" \
     --hash=sha256:15584cf2b1bf449d98ff8a6ff1abef57bf20f3ac6454f431736cd3e660921b2f \
     --hash=sha256:188bd24e4c346d3f0a933f275c2fec67050326a856b9a359881d7c2a697e8812
-pdm-backend==2.3.2 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:b0c47e6a5f6bd7b0e2263eede0e6b2cf164a83ade81b7e73dc10f8254f60b828 \
-    --hash=sha256:d0167d05ba2f2fa1e3d9b74356887a1831a6443b3c6123368bcfcd119c3e6415
+pdm-backend==2.3.3 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:a8616f628ec84353d7a0ba86b228dcf01bab5debc9e4d1a29e5311a52425d594 \
+    --hash=sha256:db6e86de8ca84e4264c35a620877b14aba8092ad7a34de395715553144668823
 zipp==3.19.2 ; python_version >= "3.8" and python_version < "3.10" \
     --hash=sha256:bf1dcf6450f873a13e952a29504887c89e6de7506209e5b1bcc3460135d4de19 \
     --hash=sha256:f091755f667055f2d02b32c53771a7a6c8b47e1fdbc4b72a8b9072b3eef8015c
